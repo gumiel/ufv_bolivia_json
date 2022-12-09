@@ -1,9 +1,25 @@
-{gestion:[
-{valor:2022,periodo:[{
-valor:1,
-mes:"enero",
-dia:[
-{valor:1, ufv:2.1488, obs:"ninguna"}
-]
-}]}
-]}
+{	
+	"gestion":[
+		{
+			"valor":2022,
+			"periodo":[
+				{
+					"valor":9,
+					"mes":"diciembre",
+					"dia":[
+						{
+							"valor":1, 
+							"ufv":2.1488, 
+							"obs":"ninguna"
+						},
+						{
+							"valor":2, 
+							"ufv":2.1499, 
+							"obs":"ninguna"
+						}
+					]
+				}
+			]
+		}
+	]
+}
